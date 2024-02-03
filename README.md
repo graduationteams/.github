@@ -12,4 +12,10 @@ Because we are Qassimi guys we believe in the cheap product and high quality and
 
 ### Squad ⚔️
 Thanks for great team :
-[Nasser Alawaji](https://github.com/newer97)
+1. [Nasser Alawaji](https://github.com/newer97)
+2. [Sufian Alfuraydi](https://github.com/sufianalfuraydi)
+3. [Mshary Alghofaily](https://github.com/imsal21)
+4. [AhmadAlmohaimeed](https://github.com/AhmadAlmohaimeed)
+5. [Adel Alsugair](https://github.com/Adelalsugair)
+
+
