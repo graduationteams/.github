@@ -9,3 +9,7 @@ Because we are Qassimi guys we believe in the cheap product and high quality and
 1. more easy to order from wholesaler than physically way
 2. help the Assisting Obscure Merchants
 3. apply new tech solutions like(recommendation system) to help you find what your love products In this accelerating era
+
+### Squad ⚔️
+Thanks for great team :
+[Nasser Alawaji](https://github.com/newer97)
