@@ -1,3 +1,3 @@
 # Value
 
-##What is Value? :thinking:
+## What is Value? :thinking:
